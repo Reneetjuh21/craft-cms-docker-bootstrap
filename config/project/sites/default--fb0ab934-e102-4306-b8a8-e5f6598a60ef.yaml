@@ -1,9 +1,0 @@
-baseUrl: $PRIMARY_SITE_URL
-enabled: true
-handle: default
-hasUrls: true
-language: nl-NL
-name: 'Irene''58'
-primary: true
-siteGroup: 761932df-fd3b-469b-a79a-8d7e22f5f54b # Irene'58
-sortOrder: 1
