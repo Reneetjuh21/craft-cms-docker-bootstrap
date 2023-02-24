@@ -1,0 +1,43 @@
+fieldLayouts:
+  8e753bf4-fed1-42ec-b039-c1574658a242:
+    tabs:
+      -
+        elementCondition: null
+        elements:
+          -
+            autocapitalize: true
+            autocomplete: false
+            autocorrect: true
+            class: null
+            disabled: false
+            elementCondition: null
+            id: null
+            instructions: null
+            label: null
+            max: null
+            min: null
+            name: null
+            orientation: null
+            placeholder: null
+            readonly: false
+            requirable: false
+            size: null
+            step: null
+            tip: null
+            title: null
+            type: craft\fieldlayoutelements\assets\AssetTitleField
+            uid: 0cb38fc8-cd99-4dcb-8a5b-251b04329c4e
+            userCondition: null
+            warning: null
+            width: 100
+        name: Content
+        uid: d34b7cd0-d72b-4954-a047-fc19f192c7b6
+        userCondition: null
+fs: public
+handle: public
+name: Public
+sortOrder: 1
+titleTranslationKeyFormat: null
+titleTranslationMethod: site
+transformFs: ''
+transformSubpath: ''

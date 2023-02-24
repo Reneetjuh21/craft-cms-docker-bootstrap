@@ -1,0 +1,12 @@
+defaultPlacement: end
+enableVersioning: true
+handle: sponsorsOverview
+name: 'Sponsors (Overzicht)'
+propagationMethod: all
+siteSettings:
+  fb0ab934-e102-4306-b8a8-e5f6598a60ef: # Irene'58
+    enabledByDefault: true
+    hasUrls: true
+    template: _router.html.twig
+    uriFormat: sponsors
+type: single

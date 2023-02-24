@@ -1,0 +1,15 @@
+defaultPlacement: end
+enableVersioning: true
+handle: page
+name: 'Tekstpagina''s'
+propagationMethod: all
+siteSettings:
+  fb0ab934-e102-4306-b8a8-e5f6598a60ef: # Irene'58
+    enabledByDefault: true
+    hasUrls: true
+    template: _router.html.twig
+    uriFormat: '{slug}'
+structure:
+  maxLevels: null
+  uid: c3a8cd4b-644f-4715-943b-1aaf940c7d78
+type: structure

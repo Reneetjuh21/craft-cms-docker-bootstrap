@@ -1,0 +1,55 @@
+fieldLayouts:
+  803259b9-464a-4dab-94d1-366ea8c1ef0b:
+    tabs:
+      -
+        elementCondition: null
+        elements:
+          -
+            autocapitalize: true
+            autocomplete: false
+            autocorrect: true
+            class: null
+            disabled: false
+            elementCondition: null
+            id: null
+            instructions: null
+            label: null
+            max: null
+            min: null
+            name: null
+            orientation: null
+            placeholder: null
+            readonly: false
+            requirable: false
+            size: null
+            step: null
+            tip: null
+            title: null
+            type: craft\fieldlayoutelements\entries\EntryTitleField
+            uid: 383197f2-96e4-495a-b6d1-20c5a2c19983
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            elementCondition: null
+            fieldUid: cc10da5e-07fc-45c5-a7e0-ae91acb98128 # Competitie Code
+            instructions: null
+            label: null
+            required: true
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: a56e38d0-fba3-42ea-af2c-fe59bacf42b6
+            userCondition: null
+            warning: null
+            width: 100
+        name: Content
+        uid: d401236d-9496-4fc4-b974-2985ef0e1316
+        userCondition: null
+handle: default
+hasTitleField: true
+name: Default
+section: 3ec53f82-19c1-4a57-9217-fa8054c83431 # Competities
+sortOrder: 1
+titleFormat: null
+titleTranslationKeyFormat: null
+titleTranslationMethod: site

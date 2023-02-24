@@ -1,0 +1,19 @@
+columnSuffix: myzkkrbh
+contentColumnType: text
+fieldGroup: 5952b7af-6573-4154-99bd-98929f36de6a # Teams
+handle: teamCode
+instructions: null
+name: 'Team Code'
+searchable: false
+settings:
+  byteLimit: null
+  charLimit: null
+  code: false
+  columnType: null
+  initialRows: 4
+  multiline: false
+  placeholder: null
+  uiMode: normal
+translationKeyFormat: null
+translationMethod: none
+type: craft\fields\PlainText

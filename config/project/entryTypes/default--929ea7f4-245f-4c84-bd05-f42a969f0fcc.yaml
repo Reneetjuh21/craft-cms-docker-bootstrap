@@ -1,0 +1,133 @@
+fieldLayouts:
+  3166debb-2298-4f69-a6db-092a2b9ccd34:
+    tabs:
+      -
+        elementCondition: null
+        elements:
+          -
+            autocapitalize: true
+            autocomplete: false
+            autocorrect: true
+            class: null
+            disabled: false
+            elementCondition: null
+            id: null
+            instructions: null
+            label: null
+            max: null
+            min: null
+            name: null
+            orientation: null
+            placeholder: null
+            readonly: false
+            requirable: false
+            size: null
+            step: null
+            tip: null
+            title: null
+            type: craft\fieldlayoutelements\entries\EntryTitleField
+            uid: b138b80f-a078-4839-b827-f64c86f6040a
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            elementCondition: null
+            fieldUid: 1d343b3a-f2ac-428b-af74-acd19c271e70 # Club Code
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 7d97967d-aab7-4352-9e10-6065bd3530a8
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            elementCondition: null
+            fieldUid: 7db4b613-8cee-455e-835a-c0b1b1c47cfe # Club Logo
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: d2ce3917-d2ad-4ac1-bb0c-b54b00a2b7fb
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            elementCondition: null
+            fieldUid: 5f1ab768-77e9-42e5-a8d1-33a51e88c0e7 # Is Own Club?
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: b19875af-a116-4744-8b04-80c904a68452
+            userCondition: null
+            warning: null
+            width: 100
+        name: Informatie
+        uid: 914be1fd-6464-42b2-a6c6-6caed772ecd1
+        userCondition: null
+      -
+        elementCondition: null
+        elements:
+          -
+            elementCondition: null
+            fieldUid: 813b1092-2513-42c0-9bbc-afa50864e0bf # Telefoon
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 063a37af-8bb8-4417-a30e-616762094698
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            elementCondition: null
+            fieldUid: 7c0938c6-ce88-4fe2-8bfe-b18d74017936 # E-mail
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 07d1589b-f427-44d7-b529-2cf7be91ec13
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            elementCondition: null
+            fieldUid: 1eeda847-3fd9-49ad-a212-3ddaf25446c6 # Adres
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: f32ad9c7-99e9-4ff5-92ab-867a7027bb09
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            elementCondition: null
+            fieldUid: 329395f0-8e92-45d7-8da1-d03efba44590 # Club Route
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 72b1e901-2626-4468-94ab-0176e215ceb0
+            userCondition: null
+            warning: null
+            width: 100
+        name: Contact
+        uid: 5f936610-d64a-4c8d-ace2-a4a47242cce7
+        userCondition: null
+handle: default
+hasTitleField: true
+name: Default
+section: 691d5c78-9b73-4a43-8bab-85a0fb0b98be # Clubs
+sortOrder: 1
+titleFormat: null
+titleTranslationKeyFormat: null
+titleTranslationMethod: site

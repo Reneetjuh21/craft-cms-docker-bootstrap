@@ -1,0 +1,19 @@
+columnSuffix: vcuiudlx
+contentColumnType: text
+fieldGroup: daf1bede-b587-43b2-bd85-b936493a1dfa # Wedstrijd
+handle: matchScore
+instructions: null
+name: 'Wedstrijd Eindscore'
+searchable: false
+settings:
+  byteLimit: null
+  charLimit: null
+  code: false
+  columnType: null
+  initialRows: 4
+  multiline: false
+  placeholder: null
+  uiMode: normal
+translationKeyFormat: null
+translationMethod: none
+type: craft\fields\PlainText

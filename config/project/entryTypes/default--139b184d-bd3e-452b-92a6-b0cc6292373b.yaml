@@ -1,0 +1,157 @@
+fieldLayouts:
+  b438635b-d63d-42d8-b8f1-ac288cb3b6d6:
+    tabs:
+      -
+        elementCondition: null
+        elements:
+          -
+            elementCondition: null
+            fieldUid: 4aa67f84-30e9-4b62-82ee-90ca0bfcd617 # Voornaam
+            instructions: null
+            label: null
+            required: true
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 9245e978-170d-408f-b8c4-5223c5b8d431
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            elementCondition: null
+            fieldUid: 6ccb9335-6fa4-4a02-864a-960d8ff0ed1b # Achternaam
+            instructions: null
+            label: null
+            required: true
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: a8753533-3251-4d5b-b9cd-dc090d8ecec1
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            elementCondition: null
+            fieldUid: 9a42368d-d0bf-429b-840e-38e43dd40fec # Geboortedatum
+            instructions: null
+            label: null
+            required: true
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 511f6590-5f37-4cac-93ec-f82ad4372e4d
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            elementCondition: null
+            fieldUid: 97a94c06-301e-4c1c-8e07-b1eceae91ac3 # Gender
+            instructions: null
+            label: null
+            required: true
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 94f51379-bd9b-4d93-b109-bb285ae10eb0
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            elementCondition: null
+            fieldUid: 7c0938c6-ce88-4fe2-8bfe-b18d74017936 # E-mail
+            instructions: null
+            label: null
+            required: true
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: dc7e02e7-b7f0-441a-a1d0-5e7b81fc66ee
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            elementCondition: null
+            fieldUid: 813b1092-2513-42c0-9bbc-afa50864e0bf # Telefoon
+            instructions: null
+            label: null
+            required: true
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: ab98ba11-3632-4864-8b4d-3d91fb8b6811
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            elementCondition: null
+            fieldUid: 1eeda847-3fd9-49ad-a212-3ddaf25446c6 # Adres
+            instructions: null
+            label: null
+            required: true
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: cacbf680-1b10-4ae1-9b56-4c98a7229f05
+            userCondition: null
+            warning: null
+            width: 100
+        name: Content
+        uid: f27265c3-8799-4ec2-b290-4716a0fcd39b
+        userCondition: null
+      -
+        elementCondition: null
+        elements:
+          -
+            elementCondition: null
+            fieldUid: 8bc82c56-398c-4f1f-837d-30d6f59895e1 # Speler Foto
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 012d7e13-de75-4f82-84d9-58b5aa12a0ce
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            elementCondition: null
+            fieldUid: 7033b744-1ea5-4481-aeb8-7b1bfd6eae93 # Speler Positie
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 8aafecf0-785a-427e-9ba5-4c323bb9892a
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            autocapitalize: true
+            autocomplete: false
+            autocorrect: true
+            class: null
+            disabled: false
+            elementCondition: null
+            id: null
+            instructions: null
+            label: __blank__
+            max: null
+            min: null
+            name: null
+            orientation: null
+            placeholder: null
+            readonly: false
+            requirable: false
+            size: null
+            step: null
+            tip: null
+            title: null
+            type: craft\fieldlayoutelements\entries\EntryTitleField
+            uid: 97772eb1-0a48-4660-bb8b-26b4700b6c89
+            userCondition: null
+            warning: null
+            width: 100
+        name: 'Foto + Positie'
+        uid: 83c38ed3-7e1a-455f-b363-c4e818113958
+        userCondition: null
+handle: default
+hasTitleField: true
+name: Default
+section: d6c35615-06a5-40b0-9584-1501a0a75f32 # Spelers
+sortOrder: 1
+titleFormat: null
+titleTranslationKeyFormat: null
+titleTranslationMethod: site

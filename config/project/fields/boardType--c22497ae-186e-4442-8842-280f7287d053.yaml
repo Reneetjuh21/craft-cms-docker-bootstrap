@@ -1,0 +1,78 @@
+columnSuffix: dmnmxojg
+contentColumnType: string
+fieldGroup: 2e5fad38-e6d9-4107-b04b-755befa7a3b1 # Bestuur
+handle: boardType
+instructions: null
+name: 'Bestuur Rol'
+searchable: false
+settings:
+  options:
+    -
+      __assoc__:
+        -
+          - label
+          - Voorzitter
+        -
+          - value
+          - chairman
+        -
+          - default
+          - ''
+    -
+      __assoc__:
+        -
+          - label
+          - Secretaris
+        -
+          - value
+          - secretary
+        -
+          - default
+          - ''
+    -
+      __assoc__:
+        -
+          - label
+          - Penningmeester
+        -
+          - value
+          - financialAdministration
+        -
+          - default
+          - ''
+    -
+      __assoc__:
+        -
+          - label
+          - Jeugdcommissie
+        -
+          - value
+          - youthAdministration
+        -
+          - default
+          - ''
+    -
+      __assoc__:
+        -
+          - label
+          - Wedstrijdzaken
+        -
+          - value
+          - matchAdministration
+        -
+          - default
+          - ''
+    -
+      __assoc__:
+        -
+          - label
+          - Kantinebeheer
+        -
+          - value
+          - canteenAdministration
+        -
+          - default
+          - ''
+translationKeyFormat: null
+translationMethod: none
+type: craft\fields\Dropdown

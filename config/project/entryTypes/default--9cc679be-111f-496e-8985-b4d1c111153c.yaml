@@ -1,0 +1,127 @@
+fieldLayouts:
+  3729fddb-084d-47f9-81e2-37cb9fa79a05:
+    tabs:
+      -
+        elementCondition: null
+        elements:
+          -
+            autocapitalize: true
+            autocomplete: false
+            autocorrect: true
+            class: null
+            disabled: false
+            elementCondition: null
+            id: null
+            instructions: null
+            label: __blank__
+            max: null
+            min: null
+            name: null
+            orientation: null
+            placeholder: null
+            readonly: false
+            requirable: false
+            size: null
+            step: null
+            tip: null
+            title: null
+            type: craft\fieldlayoutelements\entries\EntryTitleField
+            uid: 30115fb5-21de-48f6-821f-578a43431a1c
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            elementCondition: null
+            fieldUid: bb8d51b0-4ea1-4f43-86f8-6141b70237da # Competities
+            instructions: null
+            label: null
+            required: true
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 70d7cd7d-3bef-49b2-b7ac-685640d3c56d
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            elementCondition: null
+            fieldUid: fdbaeb5e-2953-4ec6-83c6-67ba0ac88bbc # Wedstrijd Datum
+            instructions: null
+            label: null
+            required: true
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 2230a576-d0bc-4669-831c-116cf5c9dab1
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            elementCondition: null
+            fieldUid: 6fe0bc55-379b-47e7-9a01-cd0deccba5d5 # Wedstrijd Code
+            instructions: null
+            label: null
+            required: true
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: a7d96c18-598a-49fb-9a1d-01dec8d466ff
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            elementCondition: null
+            fieldUid: 1d006aa2-23eb-401b-8be3-1daccef1d5f8 # Wedstrijd Type
+            instructions: null
+            label: null
+            required: true
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: c5e7c40d-8ff7-4be2-b8ef-817b6df32172
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            elementCondition: null
+            fieldUid: 5f6829e1-ccc7-4f17-af6a-d4b937db5b03 # Wedstrijd Thuisteam
+            instructions: null
+            label: null
+            required: true
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 7c264fd8-0a86-4bf1-b0f6-d8f31ad65755
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            elementCondition: null
+            fieldUid: b98c2e67-1ef7-4f68-b5db-40fd58d48d0d # Wedstrijd Uitteam
+            instructions: null
+            label: null
+            required: true
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: bc5d9c97-d2d4-467e-b7f2-970ee253848a
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            elementCondition: null
+            fieldUid: 465d18b4-59f5-4429-9bc9-cda6a730f4a9 # Wedstrijd Eindscore
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 0c26dc23-4e54-4c7e-a6f2-8d109370ad24
+            userCondition: null
+            warning: null
+            width: 100
+        name: Informatie
+        uid: 1cae4033-81b7-488b-a8cf-dcb0c556d23f
+        userCondition: null
+handle: default
+hasTitleField: true
+name: Default
+section: 8efba1fe-813b-4351-a374-091a02193857 # Wedstrijd
+sortOrder: 1
+titleFormat: null
+titleTranslationKeyFormat: null
+titleTranslationMethod: site

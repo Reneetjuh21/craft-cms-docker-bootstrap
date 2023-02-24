@@ -1,0 +1,14 @@
+columnSuffix: jkklsqov
+contentColumnType: boolean
+fieldGroup: 29984bc4-d676-4b9f-a3b7-3fd867b879a9 # Clubs
+handle: isOwnClub
+instructions: null
+name: 'Is Own Club?'
+searchable: false
+settings:
+  default: false
+  offLabel: null
+  onLabel: null
+translationKeyFormat: null
+translationMethod: none
+type: craft\fields\Lightswitch

@@ -1,0 +1,87 @@
+fieldLayouts:
+  988f5d98-62c8-4c7b-9b86-5ee469587b79:
+    tabs:
+      -
+        elementCondition: null
+        elements:
+          -
+            autocapitalize: true
+            autocomplete: false
+            autocorrect: true
+            class: null
+            disabled: false
+            elementCondition: null
+            id: null
+            instructions: null
+            label: null
+            max: null
+            min: null
+            name: null
+            orientation: null
+            placeholder: null
+            readonly: false
+            requirable: false
+            size: null
+            step: null
+            tip: null
+            title: null
+            type: craft\fieldlayoutelements\entries\EntryTitleField
+            uid: 579ec108-786b-4230-8039-eb2d8a40a767
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            elementCondition:
+              class: craft\elements\conditions\entries\EntryCondition
+              conditionRules:
+                -
+                  class: craft\fields\conditions\RelationalFieldConditionRule
+                  elementId: null
+                  fieldUid: ca1da903-9f47-4ac2-80f2-2bb5047f4aab # Entry
+                  operator: empty
+                  uid: ab27782c-b7f3-4eef-8cc9-375d27ce5414
+              elementType: craft\elements\Entry
+              fieldContext: global
+            fieldUid: a45e8064-29dd-4fd9-9901-751b6330f738 # URL
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: ad4c7a01-824b-4bb3-96f4-40244ff66fdb
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            elementCondition:
+              class: craft\elements\conditions\entries\EntryCondition
+              conditionRules:
+                -
+                  class: craft\fields\conditions\TextFieldConditionRule
+                  fieldUid: a45e8064-29dd-4fd9-9901-751b6330f738 # URL
+                  operator: empty
+                  uid: 488aea98-1de2-4ef0-b61e-8d2b87a063e5
+                  value: ''
+              elementType: craft\elements\Entry
+              fieldContext: global
+            fieldUid: ca1da903-9f47-4ac2-80f2-2bb5047f4aab # Entry
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 9a089326-cdb4-4330-851c-80117ddb3968
+            userCondition: null
+            warning: null
+            width: 100
+        name: Content
+        uid: 4d07c7a4-eaab-4d1c-9352-738b24a6e10f
+        userCondition: null
+handle: mainMenuItem
+hasTitleField: true
+name: 'Hoofdmenu Item'
+section: 7f7bf0f5-26b9-4557-bcee-5585832b1522 # Hoofd menu
+sortOrder: 1
+titleFormat: null
+titleTranslationKeyFormat: null
+titleTranslationMethod: site

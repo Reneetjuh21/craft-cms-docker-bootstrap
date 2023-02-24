@@ -1,0 +1,43 @@
+fieldLayouts:
+  912282cb-d3f7-4665-bb84-50f9678d1136:
+    tabs:
+      -
+        elementCondition: null
+        elements:
+          -
+            autocapitalize: true
+            autocomplete: false
+            autocorrect: true
+            class: null
+            disabled: false
+            elementCondition: null
+            id: null
+            instructions: null
+            label: null
+            max: null
+            min: null
+            name: null
+            orientation: null
+            placeholder: null
+            readonly: false
+            requirable: false
+            size: null
+            step: null
+            tip: null
+            title: null
+            type: craft\fieldlayoutelements\entries\EntryTitleField
+            uid: d6ab1ad2-8229-4ca7-87a4-1f956b3f9398
+            userCondition: null
+            warning: null
+            width: 100
+        name: Content
+        uid: dca9aba6-7304-42c4-b464-c664d23ce235
+        userCondition: null
+handle: default
+hasTitleField: true
+name: Default
+section: 05890c06-e285-4cae-9378-126bdadbfe23 # Nieuws Categorie
+sortOrder: 1
+titleFormat: null
+titleTranslationKeyFormat: null
+titleTranslationMethod: site

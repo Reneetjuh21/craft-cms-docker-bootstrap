@@ -1,0 +1,14 @@
+columnSuffix: avbtvrbv
+contentColumnType: string(255)
+fieldGroup: e27e7c24-1d05-4dcd-b1bf-8aa3a9909308 # Common
+handle: urlField
+instructions: null
+name: URL
+searchable: false
+settings:
+  maxLength: 255
+  types:
+    - url
+translationKeyFormat: null
+translationMethod: none
+type: craft\fields\Url

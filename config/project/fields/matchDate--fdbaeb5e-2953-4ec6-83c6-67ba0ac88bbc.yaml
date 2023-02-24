@@ -1,0 +1,17 @@
+columnSuffix: kdigqnfd
+contentColumnType: datetime
+fieldGroup: daf1bede-b587-43b2-bd85-b936493a1dfa # Wedstrijd
+handle: matchDate
+instructions: null
+name: 'Wedstrijd Datum'
+searchable: false
+settings:
+  max: null
+  min: null
+  minuteIncrement: 5
+  showDate: true
+  showTime: true
+  showTimeZone: false
+translationKeyFormat: null
+translationMethod: none
+type: craft\fields\Date
